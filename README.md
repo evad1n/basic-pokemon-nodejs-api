@@ -3,6 +3,7 @@ VERY basic nodeJS app using an API to send some pokemon info
 
 Start server
 ```
+npm install
 node server/server.js
 ```
 
